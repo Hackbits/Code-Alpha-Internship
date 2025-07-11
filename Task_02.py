@@ -146,4 +146,4 @@ plt.title("UNEMPLOYMENT ANALYSIS INSIGHTS - INDIA",
 plt.tight_layout()
 plt.show()
 
-print("\n✅ Analysis Complete! All insights have been visualized above.")
+print("\n Analysis Complete! All insights have been visualized above.")
