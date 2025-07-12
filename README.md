@@ -141,7 +141,7 @@ Code Alpha Internship/
 ### Quick Start
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/code-alpha-internship.git
+   git clone https://github.com/Hackbits/Code-Alpha-Internship.git
    cd code-alpha-internship
    ```
 
@@ -212,11 +212,11 @@ Code Alpha Internship/
 
 ## 👨‍💻 Author
 
-**Your Name**
+S SRIDHAR RAO
 - 🎓 Data Science Intern at Code Alpha
-- 📧 Email: your.email@example.com
-- 💼 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- 🐙 GitHub: [Your GitHub Profile](https://github.com/yourusername)
+- 📧 Email: sridharrao764@gmail.com
+- 💼 LinkedIn: [S Sridhar Rao](https://www.linkedin.com/in/s-sridhar-rao-857359369/)
+- 🐙 GitHub: [Hackbits](https://github.com/Hackbits)
 
 ---
 
